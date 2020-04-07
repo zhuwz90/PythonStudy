@@ -1,0 +1,9 @@
+.idea
+.settings
+/**/Debug
+/**/ipch
+/**/__pycache__
+*.suo
+*.sdf
+*.user
+*.out
